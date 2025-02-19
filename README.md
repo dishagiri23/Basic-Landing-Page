@@ -22,7 +22,7 @@ This is a **simple landing page** built using **HTML only**.
 If you want to test it online, simply upload `index.html` to any hosting platform.
 
 ## 📸 Screenshots
-![Landing Page Preview](assets/preview.png)
+![Landing Page Preview](https://github.com/dishagiri23/Basic-Landing-Page/blob/95262ce7d00f14f6925612bd967c9635a9a45d15/Screenshot.png)
 
 ## 📧 Contact
 Email: dishagiri09170@gmail.com
